@@ -15,3 +15,5 @@ dcheckout-service/src/main/java/com/digitalhouse/checkout/service/implementation
 ^products-service/src/main/java/com/digitalhouse/products/controller/ProductRestController.java,b/8/b800a7ab6503b585c74dd711b9ea4c0cb07658d0
 H
 eureka-server/.gitignore,d/3/d38f59373f2970faaa11b6eac1660b3f8d49b73e
+E
+eureka-server/pom.xml,b/3/b39ae52d769ea03b699b5602439afd875433c8a7
